@@ -1,0 +1,20 @@
+.infobox{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    border-radius: 10px !important;
+}
+#icon{
+    position: relative;
+    margin-left: -0.5rem;
+    margin-top: 0.5rem;
+}
+#typo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
